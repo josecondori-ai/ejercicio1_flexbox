@@ -23,3 +23,8 @@ body{
     margin: 5px;
     background-color: #bc3b69;
   }
+
+  h1{
+    font-size: 35px;
+    background-color: red;
+  }
